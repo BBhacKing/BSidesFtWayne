@@ -12,6 +12,16 @@ A.I. is a tool. An amazing tool, but just a tool. Look for ways it can help you 
 
 It's not going to replace you. But you can't ignore it, either.
 
+## Links from Slides
+* [When Computers Were Human](https://www.nasa.gov/feature/jpl/when-computers-were-human)
+* [Let's Pause AI Development](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+* [There is no AI](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
+* [ChatGPT Making Up References](https://oxford-review.com/chatgpt-making-up-references)
+* [Intelligence (noun)](https://www.merriam-webster.com/dictionary/intelligence)
+* [Steve Jobs: A Computer is a Bicycle For My Mind](https://www.youtube.com/watch?v=ob_GX50Za6c)
+* [AI Isn't the App, It's the UI](https://stackoverflow.blog/2023/05/01/ai-isnt-the-app-its-the-ui/)
+* [Who's Amazing? You're Amazing.](https://hbr.org/2022/01/youre-not-an-imposter-youre-actually-pretty-amazing)
+
 # Go Forth, Learn New Things:
 
 * [ChatGPT](https://openai.com/blog/chatgpt), obvs
