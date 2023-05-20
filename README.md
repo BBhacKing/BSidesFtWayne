@@ -1,6 +1,6 @@
 # BSidesFtWayne
 Artificial Intelligence and the Rise of the Humans: Slides and Links
-[The Slides](https://github.com/BBhacKing/BSidesFtWayne/blob/main/0900-BBKing-AI-Rise-of-Humans-6.pdf)
+[The Slides](https://github.com/BBhacKing/BSidesFtWayne/blob/main/0900-BBKing-AI-Rise-of-Humans-7.pdf)
 
 # TL;DR
 
