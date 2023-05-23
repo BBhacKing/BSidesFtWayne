@@ -1,4 +1,4 @@
-# BSidesFtWayne
+# BSidesFtWayne: May 20, 2023
 Artificial Intelligence and the Rise of the Humans: Slides and Links
 [The Slides](https://github.com/BBhacKing/BSidesFtWayne/blob/main/0900-BBKing-AI-Rise-of-Humans-7.pdf)
 
@@ -21,6 +21,13 @@ It's not going to replace you. But you can't ignore it, either.
 * [Steve Jobs: A Computer is a Bicycle For My Mind](https://www.youtube.com/watch?v=ob_GX50Za6c)
 * [AI Isn't the App, It's the UI](https://stackoverflow.blog/2023/05/01/ai-isnt-the-app-its-the-ui/)
 * [Who's Amazing? You're Amazing.](https://hbr.org/2022/01/youre-not-an-imposter-youre-actually-pretty-amazing)
+
+## Not in slides, but mentioned
+Tom Scott "[I tried using AI. It scared me.](https://www.youtube.com/watch?v=jPhJbKBuNnA)" (Feb, 2023)
+
+A video on using AI to help organize a huge mailbox downloaded from GMail. Tags are only on the first message in a thread. Tom wants the tag on every message. He uses AI to write a script to make the updates. Then uses AI to debug the script.
+
+He focuses on the scariness, but I hope you also see the "AI Is A Tool" part, too.
 
 # Go Forth, Learn New Things:
 
